@@ -1,5 +1,5 @@
 # p-after 
-[![Build Status](https://travis-ci.com/Nicholaiii/p-after.svg?branch=main)](https://travis-ci.com/Nicholaiii/p-after)
+[![Build Status](https://img.shields.io/travis/nicholaiii/p-after)](https://travis-ci.com/Nicholaiii/p-after)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 > Resolve a promise with specified data after an amount of time
