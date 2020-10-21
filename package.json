@@ -1,6 +1,6 @@
 {
   "name": "p-after",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Resolve a promise after an amount of time with specified data",
   "main": "index.js",
   "files": [
