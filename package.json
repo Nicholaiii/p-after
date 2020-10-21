@@ -1,0 +1,43 @@
+{
+  "name": "p-after",
+  "version": "1.0.0",
+  "description": "Resolve a promise after an amount of time with specified data",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "scripts": {
+    "test": "standard && ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicholaiii/p-after.git"
+  },
+  "keywords": [
+    "promise",
+    "after",
+    "delay",
+    "time",
+    "sequence"
+  ],
+  "author": {
+    "name": "Nicholai Nissen",
+    "email": "nicholainissen@gmail.com",
+    "url": "https://nicholai.dev"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nicholaiii/p-after/issues"
+  },
+  "homepage": "https://github.com/Nicholaiii/p-after#readme",
+  "devDependencies": {
+    "ava": "^3.13.0",
+    "in-range": "^2.0.0",
+    "standard": "^14.3.4",
+    "time-span": "^4.0.0"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}
