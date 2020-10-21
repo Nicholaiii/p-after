@@ -1,4 +1,7 @@
-# p-after
+# p-after 
+[![Build Status](https://travis-ci.com/Nicholaiii/p-after.svg?branch=main)](https://travis-ci.com/Nicholaiii/p-after)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
 > Resolve a promise with specified data after an amount of time
 
 Useful if you want to return data after some time, for example, if you want to sequence data at varying rates.
